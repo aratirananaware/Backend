@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manilahe\\Desktop\\Casestudy\\JPW\\JPW.csproj": {}
+    "C:\\Users\\ardhanaj\\Desktop\\Backenddevops\\JPW.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manilahe\\Desktop\\Casestudy\\JPW\\JPW.csproj": {
+    "C:\\Users\\ardhanaj\\Desktop\\Backenddevops\\JPW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manilahe\\Desktop\\Casestudy\\JPW\\JPW.csproj",
+        "projectUniqueName": "C:\\Users\\ardhanaj\\Desktop\\Backenddevops\\JPW.csproj",
         "projectName": "JPW",
-        "projectPath": "C:\\Users\\manilahe\\Desktop\\Casestudy\\JPW\\JPW.csproj",
-        "packagesPath": "C:\\Users\\manilahe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manilahe\\Desktop\\Casestudy\\JPW\\obj\\",
+        "projectPath": "C:\\Users\\ardhanaj\\Desktop\\Backenddevops\\JPW.csproj",
+        "packagesPath": "C:\\Users\\ardhanaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ardhanaj\\Desktop\\Backenddevops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\manilahe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ardhanaj\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -100,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
